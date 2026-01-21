@@ -1,4 +1,9 @@
 # webusb-playground
+- https://github.com/geryb-bg/gery-web/tree/master/blog/WebUSB/Example/code
+- https://github.com/geryb-bg/webusb
+- https://github.com/maarten-pennings/WebUSB-LED
+- https://docs.nordicsemi.com/bundle/ncs-1.4.2/page/zephyr/samples/subsys/usb/webusb/README.html
+- https://medium.com/@gerybbg/webusb-by-example-b4358e6a133c
 ```
 navigator.usb.addEventListener("connect", (event) => {
   console.log("Device connected:", event.device);
