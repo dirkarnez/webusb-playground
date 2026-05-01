@@ -4,6 +4,7 @@
 - https://github.com/maarten-pennings/WebUSB-LED
 - https://docs.nordicsemi.com/bundle/ncs-1.4.2/page/zephyr/samples/subsys/usb/webusb/README.html
 - https://medium.com/@gerybbg/webusb-by-example-b4358e6a133c
+- [**michalin/Android_UsbIO: Example app to control FT232 over USB**](https://github.com/michalin/Android_UsbIO/tree/main)
 ```
 navigator.usb.addEventListener("connect", (event) => {
   console.log("Device connected:", event.device);
